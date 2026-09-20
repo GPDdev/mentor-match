@@ -1,5 +1,7 @@
 # Mentor Match
 
+[English](README.md) | [简体中文](README.zh-CN.md)
+
 Mentor Match is an evidence-backed Agent Skill for finding, verifying, comparing, and monitoring research supervisors, laboratories, academic programs, postdoctoral hosts, research-assistant roles, and funding opportunities.
 
 It is designed for applicants worldwide and supports universities, public or nonprofit research institutes, and industry research labs. The core skill follows the open Agent Skills layout and is packaged as a ChatGPT/Codex plugin.
