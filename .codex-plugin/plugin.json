@@ -1,0 +1,40 @@
+{
+  "name": "mentor-match",
+  "version": "1.0.0",
+  "description": "Find and evaluate research supervisors, labs, programs, funding, and application paths from a candidate's background and goals.",
+  "author": {
+    "name": "GPDdev",
+    "email": "hejiale@outlook.com",
+    "url": "https://github.com/GPDdev"
+  },
+  "homepage": "https://github.com/GPDdev/mentor-match",
+  "repository": "https://github.com/GPDdev/mentor-match",
+  "license": "Apache-2.0",
+  "keywords": [
+    "academic-advising",
+    "research-supervisors",
+    "graduate-applications",
+    "postdoc",
+    "research-groups"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Mentor Match",
+    "shortDescription": "Evidence-backed supervisor and research group matching.",
+    "longDescription": "Mentor Match helps applicants worldwide find, verify, compare, and monitor research supervisors, labs, academic programs, and funding opportunities.",
+    "developerName": "GPDdev",
+    "category": "Productivity",
+    "capabilities": [],
+    "websiteURL": "https://github.com/GPDdev/mentor-match",
+    "privacyPolicyURL": "https://github.com/GPDdev/mentor-match/blob/main/PRIVACY.md",
+    "termsOfServiceURL": "https://github.com/GPDdev/mentor-match/blob/main/TERMS.md",
+    "defaultPrompt": [
+      "Match my profile with research supervisors and labs.",
+      "Search this university for suitable research groups.",
+      "Refresh my shortlist and report meaningful changes."
+    ],
+    "brandColor": "#155EEF",
+    "composerIcon": "./assets/mentor-match-icon-small.png",
+    "logo": "./assets/mentor-match-logo.png"
+  }
+}
